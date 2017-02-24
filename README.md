@@ -9,5 +9,5 @@ Credit: "Global Map of Singapore ©ISCGM/ MINDEF Public Affairs, Singapore"
 
 Contact: MINDEF Public Affairs.
 
-E-mail: ![email](https://www.iscgm.org/gmd/images/email/singapore.png)
+E-mail: ![email](email.png)
 
